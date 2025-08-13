@@ -36,7 +36,4 @@ This project covers **data cleaning**, **visualization** (Seaborn & Matplotlib),
    pip install pandas numpy seaborn matplotlib scikit-learn
 Run the Script
 
-bash
-Copy
-Edit
-python titanic_ml.py
+ titanic_ml.py
